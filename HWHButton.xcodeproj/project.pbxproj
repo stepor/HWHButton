@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D709F878225631CD00A1C1BC /* GKButton.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GKButton.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D709F878225631CD00A1C1BC /* HWHButton.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HWHButton.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D709F87B225631CD00A1C1BC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		D709F87C225631CD00A1C1BC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		D709F87E225631CD00A1C1BC /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
@@ -45,7 +45,7 @@
 		D709F86F225631CD00A1C1BC = {
 			isa = PBXGroup;
 			children = (
-				D709F87A225631CD00A1C1BC /* GKButton */,
+				D709F87A225631CD00A1C1BC /* HWHButton */,
 				D709F879225631CD00A1C1BC /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,12 +53,12 @@
 		D709F879225631CD00A1C1BC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D709F878225631CD00A1C1BC /* GKButton.app */,
+				D709F878225631CD00A1C1BC /* HWHButton.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D709F87A225631CD00A1C1BC /* GKButton */ = {
+		D709F87A225631CD00A1C1BC /* HWHButton */ = {
 			isa = PBXGroup;
 			children = (
 				D709F87B225631CD00A1C1BC /* AppDelegate.h */,
@@ -73,15 +73,15 @@
 				D709F889225631CF00A1C1BC /* Info.plist */,
 				D709F88A225631CF00A1C1BC /* main.m */,
 			);
-			path = GKButton;
+			path = HWHButton;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D709F877225631CD00A1C1BC /* GKButton */ = {
+		D709F877225631CD00A1C1BC /* HWHButton */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D709F88E225631CF00A1C1BC /* Build configuration list for PBXNativeTarget "GKButton" */;
+			buildConfigurationList = D709F88E225631CF00A1C1BC /* Build configuration list for PBXNativeTarget "HWHButton" */;
 			buildPhases = (
 				D709F874225631CD00A1C1BC /* Sources */,
 				D709F875225631CD00A1C1BC /* Frameworks */,
@@ -91,9 +91,9 @@
 			);
 			dependencies = (
 			);
-			name = GKButton;
+			name = HWHButton;
 			productName = GKButton;
-			productReference = D709F878225631CD00A1C1BC /* GKButton.app */;
+			productReference = D709F878225631CD00A1C1BC /* HWHButton.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -110,7 +110,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D709F873225631CD00A1C1BC /* Build configuration list for PBXProject "GKButton" */;
+			buildConfigurationList = D709F873225631CD00A1C1BC /* Build configuration list for PBXProject "HWHButton" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -123,7 +123,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D709F877225631CD00A1C1BC /* GKButton */,
+				D709F877225631CD00A1C1BC /* HWHButton */,
 			);
 		};
 /* End PBXProject section */
@@ -293,7 +293,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = E3M3E392L4;
-				INFOPLIST_FILE = GKButton/Info.plist;
+				INFOPLIST_FILE = HWHButton/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -310,7 +310,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = E3M3E392L4;
-				INFOPLIST_FILE = GKButton/Info.plist;
+				INFOPLIST_FILE = HWHButton/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -324,7 +324,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D709F873225631CD00A1C1BC /* Build configuration list for PBXProject "GKButton" */ = {
+		D709F873225631CD00A1C1BC /* Build configuration list for PBXProject "HWHButton" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D709F88C225631CF00A1C1BC /* Debug */,
@@ -333,7 +333,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D709F88E225631CF00A1C1BC /* Build configuration list for PBXNativeTarget "GKButton" */ = {
+		D709F88E225631CF00A1C1BC /* Build configuration list for PBXNativeTarget "HWHButton" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D709F88F225631CF00A1C1BC /* Debug */,
